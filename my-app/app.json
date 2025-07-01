@@ -4,7 +4,7 @@
     "slug": "welcome-lesson-01",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/images/icon.png",
+    "icon": "./assets/images/coffee-icon.png",
     "scheme": "welcomelesson01",
     "userInterfaceStyle": "automatic",
     "newArchEnabled": true,
