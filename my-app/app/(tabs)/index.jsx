@@ -31,7 +31,6 @@ const styles = StyleSheet.create({
     color: 'white',
     textAlign: 'center',
     fontWeight: 'bold',
-    marginTop: 20,
     backgroundColor: 'rgba(0, 0, 0, 0.5)', // Semi-transparent background for better readability
   },
 })
