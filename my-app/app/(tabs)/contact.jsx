@@ -1,13 +1,13 @@
 import { Text, View, StyleSheet, ImageBackground } from 'react-native'
 import React, { Component } from 'react'
-import icedCoffeeImg from '../assets/images/iced-coffee.png'
+import icedCoffeeImg from '../../assets/images/iced-coffee.png'
 
 export class explore extends Component {
   render() {
     return (
       <View style={styles.container}>
         <ImageBackground source={icedCoffeeImg} resizeMode='cover' style={styles.image}>
-            <Text style={styles.title}>Explore</Text>
+            <Text style={styles.title}>Contact</Text>
             <View style={styles.paragraphContainer}>
                 <Text style={styles.paragraph}>
                 Discover new coffee shops, explore unique blends, and find your next favorite brew.

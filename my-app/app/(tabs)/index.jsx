@@ -1,8 +1,9 @@
 import { View, Text, StyleSheet, ImageBackground, Pressable } from 'react-native'
 import React from 'react'
 import { Link } from 'expo-router'
+import { useColorScheme } from 'react-native'
 
-import icedCoffeeImg from '../assets/images/iced-coffee.png'
+import icedCoffeeImg from '../../assets/images/iced-coffee.png'
 
 const app = () => {
   return (
